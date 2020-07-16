@@ -1,0 +1,25 @@
+{
+  "name": "Example Blog",
+  "header": [
+    {
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "name": "Blog",
+      "link": "/blog/"
+    },
+    {
+      "name": "Projects",
+      "link": "/projects/"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/wordz-io"
+    },
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/wordz_io"
+    }
+  ]
+}
